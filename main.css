@@ -4,9 +4,9 @@
 }
 body {
     
-    background: #4CB8C4;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #a3c9e2, #9618f7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #a3c9e2, #9618f7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #0887d8;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0887d8, #ef5795, #ffdf0f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0887d8, #ef5795, #ffdf0f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;    
 }
 .card {
@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     position: relative;
     border-radius: 15px;
-    background-color: #9C8BEB;
+    background-color: to right, #0887d8, #ef5795, #ffdf0f;
     text-align: center;
     width: 400px;
 
